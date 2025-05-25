@@ -38,7 +38,7 @@ This script takes a number as input and uses Python's built-in math module to pe
 - Includes a simple check to avoid math errors if the number is 0 or negative.
 **Code snipper :**
   ```python
-  import math
+import math
 
 def main():
     num = int(input("Enter a number: "))
